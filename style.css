@@ -179,7 +179,7 @@ header .header-cases{
 
 
 .index-boxlink-square{
-    width: calc(25% - 60px) !important;
+    width: calc(25% - 20px) !important;
 }
 
 .index-boxlink-rectangle{
